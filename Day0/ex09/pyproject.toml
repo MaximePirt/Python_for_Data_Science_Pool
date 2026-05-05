@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name= "ft_package"
+version= "0.0.1"
+description = "A sample test package"
+authors = [
+	{ name="mpierrot", email = "mpierrot@student.42angouleme.fr" }
+]
+license = { text = "MIT" }
+classifiers= []
+dependencies= []
+
+[project.urls]
+Homepage= "https://github.com/mpirt/ft_package"
