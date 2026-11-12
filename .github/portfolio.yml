@@ -1,0 +1,18 @@
+title: Python for Data Science Pool
+origin: "42"
+domains: [data]
+summary:
+  fr: 42 • Python / NumPy / Pandas
+  en: 42 • Python / NumPy / Pandas
+description:
+  fr: >
+    Piscine 42 sur Python appliqué à la data science : du cœur du langage
+    (pattern matching, closures, décorateurs, OOP) jusqu'au traitement de
+    données et d'images avec NumPy, Pandas et Matplotlib. Chaque jour
+    regroupe plusieurs exercices indépendants et testés individuellement.
+  en: >
+    42 school pool on Python for data science: from core language features
+    (pattern matching, closures, decorators, OOP) to data and image
+    processing with NumPy, Pandas and Matplotlib. Each day groups several
+    independent, individually tested exercises.
+stack: [Python, NumPy, Pandas, Matplotlib]
